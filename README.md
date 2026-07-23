@@ -80,3 +80,4 @@ This dashboard enables users to quickly identify pricing trends, monitor host pe
 Screenshots
 What the Dashboard looks like
 https://github.com/ayushirahangdale991-netizen/Airbnb-Business-Dashboard-/blob/main/Dashboard%201.png
+https://github.com/ayushirahangdale991-netizen/Airbnb-Business-Dashboard-/blob/main/Dashboard%202.png
