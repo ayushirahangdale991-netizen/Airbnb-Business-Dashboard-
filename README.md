@@ -81,3 +81,4 @@ Screenshots
 What the Dashboard looks like
 https://github.com/ayushirahangdale991-netizen/Airbnb-Business-Dashboard-/blob/main/Dashboard%201.png
 https://github.com/ayushirahangdale991-netizen/Airbnb-Business-Dashboard-/blob/main/Dashboard%202.png
+https://github.com/ayushirahangdale991-netizen/Airbnb-Business-Dashboard-/blob/main/Dashboard%203.png
