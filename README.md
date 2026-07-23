@@ -1,4 +1,4 @@
-# Airbnb-Business-Dashboard-
+
 🏠 Airbnb Business Intelligence Dashboard | Power Bi
 This project presents an interactive Power BI dashboard built to analyze Airbnb listing and review data across multiple global cities. The dashboard helps uncover pricing trends, host performance, guest review behavior, and market distribution, enabling stakeholders to make informed, data-driven decisions.
 The project demonstrates how business intelligence can transform raw Airbnb data into actionable insights through interactive visualizations and KPI reporting.
@@ -83,3 +83,5 @@ https://github.com/ayushirahangdale991-netizen/Airbnb-Business-Dashboard-/blob/m
 https://github.com/ayushirahangdale991-netizen/Airbnb-Business-Dashboard-/blob/main/Dashboard%202.png
 https://github.com/ayushirahangdale991-netizen/Airbnb-Business-Dashboard-/blob/main/Dashboard%203.png
 https://github.com/ayushirahangdale991-netizen/Airbnb-Business-Dashboard-/blob/main/Dashboard%204.png
+
+
