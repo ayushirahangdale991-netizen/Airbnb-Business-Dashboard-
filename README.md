@@ -78,7 +78,8 @@ Interactive Reporting
 This dashboard enables users to quickly identify pricing trends, monitor host performance, evaluate customer engagement, and compare market conditions across cities. By transforming raw Airbnb data into interactive visual reports, it supports faster, data-driven decision-making and reduces the effort required for manual analysis.
 
 Screenshots
-What the Dashboard looks like
+What the Dashboard looks like:
 https://github.com/ayushirahangdale991-netizen/Airbnb-Business-Dashboard-/blob/main/Dashboard%201.png
 https://github.com/ayushirahangdale991-netizen/Airbnb-Business-Dashboard-/blob/main/Dashboard%202.png
 https://github.com/ayushirahangdale991-netizen/Airbnb-Business-Dashboard-/blob/main/Dashboard%203.png
+https://github.com/ayushirahangdale991-netizen/Airbnb-Business-Dashboard-/blob/main/Dashboard%204.png
